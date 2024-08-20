@@ -1,0 +1,10 @@
+github.com/LindsayBradford/go-dbf v1.0.0-aplha.4 h1:B/GGJW3GEBVhuLr0JLoWJnhglv2ZC5a17FjAtOlKrTc=
+github.com/LindsayBradford/go-dbf v1.0.0-aplha.4/go.mod h1:56pG8xuSp6+mnQ5lnYtCUezjmMFTKyboVPk7puy3c00=
+github.com/Valentin-Kaiser/go-dbase v1.12.1 h1:xdcAmbFHTlxEd9Xv9uol2xv58QcYBC9KnRijurUIkOA=
+github.com/Valentin-Kaiser/go-dbase v1.12.1/go.mod h1:pCeAnnjp29dtr1cwC2F7hj+a1BKoAb5UgniNoekn6C4=
+github.com/axgle/mahonia v0.0.0-20180208002826-3358181d7394 h1:OYA+5W64v3OgClL+IrOD63t4i/RW7RqrAVl9LTZ9UqQ=
+github.com/axgle/mahonia v0.0.0-20180208002826-3358181d7394/go.mod h1:Q8n74mJTIgjX4RBBcHnJ05h//6/k6foqmgE45jTQtxg=
+golang.org/x/sys v0.24.0 h1:Twjiwq9dn6R1fQcyiK+wQyHWfaz/BJB+YIpzU/Cv3Xg=
+golang.org/x/sys v0.24.0/go.mod h1:/VUhepiaJMQUp4+oa/7Zr1D23ma6VTLIYjOOTFZPUcA=
+golang.org/x/text v0.17.0 h1:XtiM5bkSOt+ewxlOE/aE/AKEHibwj/6gvWMl9Rsh0Qc=
+golang.org/x/text v0.17.0/go.mod h1:BuEKDfySbSR4drPmRPG/7iBdf8hvFMuRexcpahXilzY=
